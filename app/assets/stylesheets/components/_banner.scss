@@ -1,0 +1,11 @@
+.banner {
+  width: 100%;
+  text-align: center;
+}
+
+.banner-home {
+  background-image: linear-gradient(rgba(0,0,0,0.2), rgba(0,0,0,0.2)), url("home.jpg");
+  background: cover;
+  height: 100vh;
+  padding-top: 56px;
+}
