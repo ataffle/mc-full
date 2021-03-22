@@ -2,14 +2,18 @@
 body {
   h1 {
     color: white;
-    font-size: 40px;
-    font-weight: bold;
+    font-weight: 500;
+    font-size: 48px;
+    line-height: 64px;
+    letter-spacing: -0.02em;
   }
 
   h2 {
     color: white;
-    font-weight: normal;
-    font-size: 24px;
+    font-weight: 500;
+    font-size: 32px;
+    line-height: 44px;
+    letter-spacing: -0.02em;
     opacity: 0.8;
   }
 }
