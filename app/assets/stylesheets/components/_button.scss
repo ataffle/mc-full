@@ -1,0 +1,19 @@
+.btn-normal {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 8px 16px;
+  border-radius: $radius-m;
+  text-decoration: none;
+}
+
+.btn-large {
+  background-color: $secondary-mc;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 8px 16px;
+  border-radius: $radius-m;
+  text-decoration: none;
+}
+
