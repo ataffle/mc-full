@@ -14,6 +14,20 @@ $grey-darker: #8A8A8A;
 $grey-mc: #C5C5C5;
 $grey-lighter: #D1D1D1;
 $light-grey: #F8F8F8;
+$white-darker: #F6F7F8;
+$white-mc: #FBFBFB;
+$white-lighter: #FEFEFE;
+$red-alert: #EB5757;
+
+
+.primary-mc {
+  background-color: $primary-mc;
+}
+
+.secondary-mc {
+  background-color: $secondary-mc;
+}
+
 
 // Bootstrap
 $orange: #E67E22;
