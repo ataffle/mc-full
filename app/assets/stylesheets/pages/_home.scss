@@ -3,17 +3,16 @@
 .search-bar {
   width: 800px;
   display: flex;
-  justify-content: space-between;
+  justify-content: space-around;
   align-items: center;
-
+  margin: 56px auto;
 }
 
 .input-home {
   background: $white;
   width: 500px;
-  height: 64px;
+  height: 52px;
   box-shadow: $shadow-very-light;
-  margin: 56px auto;
   border-radius: $radius-lg;
 }
 
