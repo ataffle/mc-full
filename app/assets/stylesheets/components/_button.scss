@@ -1,3 +1,11 @@
+.primary-mc {
+  background-color: $primary-mc;
+}
+
+.secondary-mc {
+  background-color: $secondary-mc;
+}
+
 .btn-normal {
   display: flex;
   justify-content: center;
@@ -8,12 +16,10 @@
 }
 
 .btn-large {
-  background-color: $secondary-mc;
   display: flex;
   justify-content: center;
   align-items: center;
-  padding: 8px 16px;
+  padding: 16px 32px;
   border-radius: $radius-m;
   text-decoration: none;
 }
-
