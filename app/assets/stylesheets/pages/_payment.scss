@@ -1,0 +1,24 @@
+.forms-payment {
+  display: flex;
+  margin: 40px auto;
+  justify-content: space-between;
+}
+
+
+.form-payment {
+  background-color: $white-mc;
+  width: 648px;
+  height: 900px;
+  border-radius: $radius-lg;
+  box-shadow: $shadow-classic;
+  padding: 8px;
+}
+
+.form-summary {
+  background-color: $white-mc;
+  width: 292px;
+  height: 450px;
+  border-radius: $radius-lg;
+  box-shadow: $shadow-classic;
+  padding: 8px;
+}
