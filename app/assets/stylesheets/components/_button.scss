@@ -1,8 +1,8 @@
-.primary-mc {
+.btn-primary {
   background-color: $primary-mc;
 }
 
-.secondary-mc {
+.btn-secondary {
   background-color: $secondary-mc;
 }
 
@@ -10,8 +10,8 @@
   display: flex;
   justify-content: center;
   align-items: center;
-  padding: 8px 16px;
-  border-radius: $radius-m;
+  padding: 13px 20px;
+  border-radius: $radius-xl;
   text-decoration: none;
 }
 
