@@ -1,30 +1,27 @@
 // Define variables for your color scheme
 
 // MorningCroissant
-$primary-darker: #D3610A;
 $primary-mc: #FF813A;
-$primary-light1: #FF8D4D;
-$primary-light2: #FFA97A;
-$primary-light3: #FFC6A6;
-$primary-light4: #FFE3D3;
-$secondary-darker: #2D70BD;
+$primary-mc1: #E86821;
+$primary-mc2: lighten($primary-mc1, 10%);
+$primary-mc3: lighten($primary-mc, 10%);
 $secondary-mc: #095BE1;
-$secondary-light1: #216BE3;
-$secondary-light2: #5990EA;
-$secondary-light3: #90B5F1;
-$secondary-light4: #C7DAF8;
+$secondary-mc1: #284FAD;
+$secondary-mc2: lighten($secondary-mc, 10%);
+$secondary-mc3: #E9EFF8;
 $black-mc: #000000;
-$black-light1: #030F08;
-$black-light2: #030F08;
+$black-mc1: ligthen($black-mc, 65%);
 $dark-mc: #27314A;
-$dark-light1: #243350;
-$grey-mc: #C5C5C5;
-$grey-light1: #D1D1D1;
-$grey-light2: #F8F8F8;
+$grey-mc: #b6b6b6;
+$grey-light: #ECEBED;
 $white-mc: #FFFFFF;
 $beige-mc: #FAF6F4;
+$beige-light: #FAFAFA;
 $red-alert: #E10909;
+$red-alert1: lighten($red-alert, 26%);
 $green-alert: #27AE60;
+$green-alert1: lighten($green-alert, 26%);
+$shadow: #007793;
 
 
 // Bootstrap

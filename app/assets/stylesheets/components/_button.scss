@@ -1,9 +1,17 @@
 .btn-primary {
   background-color: $primary-mc;
+  box-shadow: $shadow-primary;
+  &:hover {
+    background-color: $primary-mc1;
+  }
 }
 
 .btn-secondary {
   background-color: $secondary-mc;
+  box-shadow: $shadow-secondary;
+  &:hover {
+    background-color: $secondary-mc1;
+  }
 }
 
 .btn-normal {
